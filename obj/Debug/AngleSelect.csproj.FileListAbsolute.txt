@@ -1,0 +1,8 @@
+C:\Download\firefox\AngleSelect\AngleSelect\bin\Debug\AngleSelect.dll
+C:\Download\firefox\AngleSelect\AngleSelect\bin\Debug\AngleSelect.pdb
+C:\Download\firefox\AngleSelect\AngleSelect\obj\Debug\ResolveAssemblyReference.cache
+C:\Download\firefox\AngleSelect\AngleSelect\obj\Debug\AngleSelect.AngleSelect.resources
+C:\Download\firefox\AngleSelect\AngleSelect\obj\Debug\ResGen.read.1.tlog
+C:\Download\firefox\AngleSelect\AngleSelect\obj\Debug\ResGen.write.1.tlog
+C:\Download\firefox\AngleSelect\AngleSelect\obj\Debug\AngleSelect.dll
+C:\Download\firefox\AngleSelect\AngleSelect\obj\Debug\AngleSelect.pdb

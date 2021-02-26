@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AngleSelect">
+</Property><Property Name="Solution File" Value="C:\Download\firefox\AngleSelect\AngleSelect\AngleSelect.sln">
+</Property><Property Name="Date" Value="Monday, January 17, 2011">
+</Property><Property Name="Time" Value="20:27:11 PM">
+</Property></Properties><Event ErrorLevel="0" Project="AngleSelect" Source="AngleSelect.csproj" Description="Project file successfully backed up as C:\Download\firefox\AngleSelect\AngleSelect\Backup\AngleSelect.csproj">
+</Event><Event ErrorLevel="0" Project="AngleSelect" Source="AngleSelect.cs" Description="File successfully backed up as C:\Download\firefox\AngleSelect\AngleSelect\Backup\AngleSelect.cs">
+</Event><Event ErrorLevel="0" Project="AngleSelect" Source="AngleSelect.Designer.cs" Description="File successfully backed up as C:\Download\firefox\AngleSelect\AngleSelect\Backup\AngleSelect.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AngleSelect" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Download\firefox\AngleSelect\AngleSelect\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AngleSelect" Source="AngleSelect.resx" Description="File successfully backed up as C:\Download\firefox\AngleSelect\AngleSelect\Backup\AngleSelect.resx">
+</Event><Event ErrorLevel="1" Project="AngleSelect" Source="AngleSelect.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="AngleSelect" Source="AngleSelect.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AngleSelect" Source="AngleSelect.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AngleSelect" Source="AngleSelect.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
